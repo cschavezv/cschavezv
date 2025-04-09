@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hola, soy Sebastián Chávez 👋
+### Sobre mi
+- ⌨️Estudiante de Ciencias de la Computación 
+- ℹ️Bilingüe (Inglés y Español)
+- 💯Nivel B2 en el idioma Inglés
 <!--
 **cschavezv/cschavezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
